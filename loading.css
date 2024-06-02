@@ -1,0 +1,10 @@
+.loading{
+
+    transition:1s opacity;
+}
+
+img{
+
+    height: 100px;
+    width: 100px;
+}
